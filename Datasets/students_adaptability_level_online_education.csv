@@ -1,0 +1,1206 @@
+Gender,Age,Education Level,Institution Type,IT Student,Location,Load-shedding,Financial Condition,Internet Type,Network Type,Class Duration,Self Lms,Device,Adaptivity Level
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+Girl,26-30,University,Government,Yes,Yes,Low,Poor,Mobile Data,4G,0,No,Computer,Low
+Girl,21-25,University,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,High
+Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,Moderate
+Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,16-20,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,16-20,College,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3-6,Yes,Computer,Low
+Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,High
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+Boy,16-20,College,Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Low
+Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3-6,No,Mobile,Low
+Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,High
+Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Low
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Computer,Low
+Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,High
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Low
+Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+Boy,16-20,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,Moderate
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,High
+Boy,11-15,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Low
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,16-20,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Low
+Boy,16-20,College,Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,Yes,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,High
+Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,3G,3-6,Yes,Mobile,Low
+Girl,11-15,School,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+Girl,16-20,School,Government,No,No,Low,Rich,Mobile Data,4G,1-3,No,Mobile,High
+Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,High
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,2G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,High
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,High
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,11-15,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,No,No,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+Boy,21-25,College,Government,Yes,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+Girl,1-5,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,Yes,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Tab,High
+Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,High
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Low
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3-6,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Low
+Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,Yes,No,Low,Rich,Wifi,4G,0,No,Mobile,Low
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,High
+Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Low
+Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,High
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Low
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Low
+Boy,16-20,College,Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,High
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,High
+Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,High
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Low
+Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,Moderate
+Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,High
+Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,26-30,University,Government,Yes,Yes,Low,Poor,Mobile Data,4G,0,No,Computer,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+Boy,21-25,College,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,High
+Boy,1-5,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,21-25,University,Government,No,Yes,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,High
+Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,High
+Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,High
+Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Boy,21-25,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Low
+Boy,11-15,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Low
+Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Low
+Boy,11-15,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,High
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,26-30,University,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,School,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,High
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Low
+Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+Girl,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,High
+Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,High
+Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,26-30,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,2G,3-6,No,Mobile,Moderate
+Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,High
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,No,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Computer,Moderate
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Boy,26-30,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Computer,Low
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Low
+Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,High
+Girl,21-25,University,Non Government,Yes,No,High,Poor,Wifi,2G,3-6,Yes,Tab,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,High
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,Yes,No,Low,Rich,Wifi,4G,0,No,Mobile,Low
+Boy,26-30,University,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,Yes,Mobile,Low
+Girl,21-25,University,Government,No,Yes,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Tab,Moderate
+Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,No,High,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,High
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Boy,21-25,University,Government,No,No,High,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Government,No,Yes,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,High
+Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,High
+Boy,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,3G,0,Yes,Mobile,Low
+Boy,11-15,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,High
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3-6,Yes,Computer,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,High
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Computer,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Low
+Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Boy,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Low
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,1-5,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,Yes,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,No,High,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,College,Government,Yes,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+Girl,26-30,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,High
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+Boy,11-15,School,Non Government,Yes,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,High
+Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,2G,3-6,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,Moderate
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,21-25,University,Non Government,Yes,No,High,Poor,Wifi,2G,3-6,Yes,Tab,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,21-25,University,Non Government,No,No,Low,Poor,Mobile Data,4G,1-3,Yes,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,High
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Low
+Boy,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,High
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Government,No,No,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,21-25,University,Non Government,Yes,No,High,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Computer,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,High
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,High
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+Girl,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,0,No,Mobile,Low
+Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+Boy,26-30,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Computer,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,No,High,Mid,Wifi,4G,1-3,Yes,Computer,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,21-25,University,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,High
+Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Low
+Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Computer,Moderate
+Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,High
+Girl,21-25,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Computer,Moderate
+Boy,6-10,School,Government,No,No,High,Mid,Mobile Data,2G,0,No,Mobile,Low
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Tab,High
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,High
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,3G,3-6,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,High
+Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,21-25,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,Yes,Computer,High
+Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,Yes,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,16-20,School,Government,No,Yes,Low,Rich,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,6-10,School,Government,No,No,High,Mid,Mobile Data,2G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Girl,21-25,College,Government,No,No,High,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,High,Poor,Wifi,4G,3-6,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Low
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,16-20,University,Government,No,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,School,Government,No,No,Low,Rich,Mobile Data,4G,1-3,No,Mobile,High
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Low
+Boy,16-20,University,Government,No,No,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+Girl,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+Girl,26-30,University,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,26-30,University,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,11-15,School,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Computer,Low
+Girl,16-20,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,Low
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,High
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,1-5,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Mobile,Moderate
+Girl,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Boy,21-25,University,Non Government,No,Yes,High,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Government,Yes,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Computer,Low
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Tab,Moderate
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+Boy,1-5,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,No,Yes,Low,Rich,Wifi,4G,3-6,No,Tab,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+Boy,26-30,University,Government,No,No,Low,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,No,Computer,Moderate
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,High
+Boy,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,21-25,University,Government,No,No,High,Mid,Wifi,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,3-6,Yes,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,High
+Girl,21-25,University,Government,No,Yes,Low,Mid,Wifi,3G,0,Yes,Mobile,Low
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,3-6,Yes,Computer,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,High
+Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,2G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Girl,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Computer,High
+Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,3G,3-6,Yes,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,Yes,Low,Rich,Wifi,4G,3-6,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Wifi,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,0,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,16-20,School,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,6-10,School,Non Government,No,Yes,Low,Mid,Wifi,3G,1-3,No,Mobile,High
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,6-10,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,3-6,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Boy,16-20,College,Government,No,No,High,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,No,Computer,Low
+Girl,11-15,School,Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,No,Computer,Low
+Boy,6-10,School,Government,No,Yes,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,High,Poor,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,21-25,University,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,21-25,University,Government,No,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Low
+Girl,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Rich,Mobile Data,3G,1-3,No,Mobile,High
+Girl,16-20,School,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,1-3,Yes,Tab,Moderate
+Boy,21-25,University,Non Government,No,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,Yes,High,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,Yes,Mobile,Low
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,3-6,No,Computer,Low
+Girl,1-5,School,Non Government,No,Yes,Low,Poor,Mobile Data,4G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Wifi,4G,0,No,Mobile,Moderate
+Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,High
+Girl,21-25,University,Government,No,No,Low,Mid,Mobile Data,2G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,11-15,School,Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Girl,16-20,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Boy,21-25,University,Non Government,Yes,No,High,Mid,Mobile Data,3G,1-3,Yes,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Computer,Moderate
+Girl,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Wifi,4G,3-6,Yes,Computer,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Mobile Data,3G,3-6,Yes,Mobile,Low
+Boy,21-25,University,Non Government,Yes,No,High,Poor,Mobile Data,3G,3-6,Yes,Mobile,Moderate
+Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,High
+Boy,21-25,University,Government,No,No,High,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Government,No,No,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Government,No,Yes,Low,Mid,Mobile Data,4G,3-6,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,26-30,University,Government,Yes,Yes,Low,Rich,Wifi,4G,1-3,No,Computer,High
+Boy,6-10,School,Government,No,No,Low,Mid,Mobile Data,3G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,4G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Rich,Wifi,3G,1-3,No,Mobile,High
+Boy,1-5,School,Government,No,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,16-20,College,Government,Yes,Yes,Low,Mid,Mobile Data,4G,1-3,Yes,Mobile,Low
+Boy,21-25,University,Non Government,Yes,No,Low,Mid,Mobile Data,3G,1-3,Yes,Computer,Moderate
+Girl,16-20,College,Government,No,No,High,Poor,Mobile Data,4G,0,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,6-10,School,Non Government,No,Yes,Low,Rich,Wifi,4G,1-3,No,Mobile,Moderate
+Girl,21-25,University,Non Government,Yes,Yes,High,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,26-30,University,Non Government,Yes,Yes,Low,Mid,Wifi,3G,1-3,Yes,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Boy,16-20,College,Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Boy,11-15,School,Non Government,No,No,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,High,Poor,Wifi,4G,1-3,Yes,Computer,High
+Boy,16-20,College,Government,No,No,High,Mid,Mobile Data,3G,1-3,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,3-6,No,Computer,Moderate
+Boy,16-20,College,Government,Yes,No,Low,Mid,Mobile Data,4G,0,No,Mobile,Low
+Boy,21-25,University,Non Government,Yes,Yes,Low,Mid,Wifi,4G,3-6,No,Computer,Low
+Girl,16-20,College,Non Government,No,Yes,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,16-20,College,Non Government,No,No,High,Mid,Wifi,4G,3-6,No,Mobile,Moderate
+Boy,11-15,School,Non Government,No,Yes,Low,Mid,Mobile Data,3G,1-3,No,Mobile,Moderate
+Girl,16-20,College,Non Government,No,No,Low,Mid,Wifi,4G,1-3,No,Mobile,Low
+Girl,11-15,School,Non Government,No,Yes,Low,Poor,Mobile Data,3G,1-3,No,Mobile,Moderate
